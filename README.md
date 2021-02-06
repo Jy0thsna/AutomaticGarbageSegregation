@@ -1,4 +1,4 @@
-#Automatic Garbage Segregation using YOLO-v3
+<h1>Automatic Garbage Segregation using YOLO-v3</h1>
 
 This project was created using Jupyter Notebooks, Darknet Framework and Labelimg.<br>
 We propose a method to segregate garbage into recyclable and non-recyclable by using an image processing algorithm called Tiny-YOLO-v3. <br>
@@ -14,7 +14,7 @@ Our model has been trained to detect 5 classes, namely: Glass, Wood, Plastic, Me
 More information can be found in the report pdf file, or the paper: [a relative link](Segregation.pdf) 
 <br><br>
 
-#To Run The Model: 
+<h2>To Run The Model:</h2> <br>
 Install darknet framework. <br>
 Label the dataset using labelimg, https://github.com/tzutalin/labelImg <br>
 Split the dataset into test.txt and train.txt using process.py, and copy both txt files into darknet folder<br>
