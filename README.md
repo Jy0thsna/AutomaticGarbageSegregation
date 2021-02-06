@@ -24,4 +24,4 @@ Copy obj_data.data into darknet folder, copy obj.names into darknet folder <br>
 Run MultipleObjectDetection.ipynb and change the image names as necessary for testing and training. <br>
 The saved weights after training will appear in darknet/backup folder, which can be used for testing. <br>
 Finally, IntegratedFinals.py can be used to run the model on a raspberry pi using the final weights file obtained. <br>
-Done in Collaboration with github users: @cauvery-a and @akshitha98
+<b>Done in Collaboration with github users:</b> <a href="https://github.com/cauvery-a">@cauvery-a</a> and <a href="https://github.com/akshitha98"> @akshitha98</a>
