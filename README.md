@@ -11,7 +11,7 @@ https://github.com/AlexeyAB/darknet
 <br>
 If you wish to train your own model using any of the algorithms in the framework, please follow the instructions in the readme file on that link.<br><br>
 Our model has been trained to detect 5 classes, namely: Glass, Wood, Plastic, Metal and Paper. After training the model on a dataset of 10k images for 9k iterations using Google Colab, the model was able to achieve a Mean Average Precision of 61.47% <br>
-More information can be found in the report pdf file, or the paper: [a relative link](GarbageSegregation.pdf) 
+More information can be found in the report pdf file, or the paper: [a relative link](Segregation.pdf) 
 <br><br>
 
 #To Run The Model: 
