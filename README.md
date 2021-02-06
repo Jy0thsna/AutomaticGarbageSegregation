@@ -2,7 +2,7 @@
 
 This project was created using Jupyter Notebooks, Darknet Framework and Labelimg.<br>
 We propose a method to segregate garbage into recyclable and non-recyclable by using an image processing algorithm called Tiny-YOLO-v3. <br>
-Our result is seen as follows: [a relative link](final_result.jpg)<br>
+Our result is seen as follows: [a relative link](final_result.png)<br>
 
 In this project we used a robotic arm, controlled by Raspberry pi to make use of these co-ordinates and segregate the waste into its respective bins. <br><br>
 Demo and explanation are given in this video: https://youtu.be/s9vpYhOcICE<br>
